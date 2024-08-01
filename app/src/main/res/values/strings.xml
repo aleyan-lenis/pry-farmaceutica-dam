@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ProyectoFarmaceutica</string>
+    <string name="ingrese_usuario">INGRESE USUARIO</string>
+    <string name="_password">CONTRASEÑA</string>
+    <string name="login">INICIAR SESIÓN</string>
+    <string name="sign_up">REGISTRARSE</string>
+    <string name="price">Precio</string>
+    <string name="name_product">Nombre del Producto</string>
+    <string name="description">Descripcion</string>
+    <string name="add_producto">Añadir al carrito</string>
+    <string name="shop_cart">Carrito de compras</string>
+    <string name="header_text">Farmacia UG</string>
+</resources>
