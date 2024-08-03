@@ -16,6 +16,9 @@
         android:theme="@style/Theme.AppCompat.NoActionBar"
         tools:targetApi="31">
         <activity
+            android:name=".CartActivity"
+            android:exported="false" />
+        <activity
             android:name=".CompraActivity"
             android:exported="false" />
         <activity
@@ -31,7 +34,7 @@
             android:name=".MainActivity"
             android:exported="true"
             android:label="@string/app_name"
-            android:theme="@style/Theme.ProyectoFarmaceutica"></activity>
+            android:theme="@style/Theme.ProyectoFarmaceutica" />
     </application>
 
 </manifest>
